@@ -1,6 +1,6 @@
 📊 Project Lifecycle Analytics Dashboard
 
-A dynamic, interactive dashboard to monitor project performance, assess risks, and analyze stakeholder feedback—built using Streamlit and Plotly.
+I'll create a comprehensive Project Lifecycle Analytics Dashboard in Python using Streamlit for the web interface and various data visualization libraries. This dashboard will monitor project health metrics and provide stakeholder insights.
 
 🚀 Overview
 This dashboard simulates a Project Lifecycle Management System and provides:
